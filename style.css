@@ -1,0 +1,12 @@
+body{
+    background-color: turquoise;
+}
+
+.stash{
+    background-color:transparent;
+    border-radius: 50px;
+    font-size: large;
+    margin-top: 25%;
+    margin-left: 40%;
+    color: black;
+}
